@@ -35,7 +35,7 @@ If OWA is found, run the following nmap script against the host.
 
 # Tools in action
 proxyshell.py
-* https://youtu.be/Id29lt76IqE
+* https://youtu.be/fEI8ZvPR4yM
 
 encoder.cpp
-* https://youtu.be/fEI8ZvPR4yM
+* https://youtu.be/Id29lt76IqE
