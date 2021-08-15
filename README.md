@@ -1,6 +1,6 @@
 # ProxyShell2RCE
-
-Weaponized version of https://github.com/dmaasland/proxyshell-poc. Targets CVE-2021-34473.
+* Unauthenticated RCE (Only need 1 valid email address '-e')
+* Weaponized version of https://github.com/dmaasland/proxyshell-poc. Targets CVE-2021-34473.
 
 # Install requirements
 ```
